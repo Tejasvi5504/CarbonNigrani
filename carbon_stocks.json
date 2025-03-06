@@ -1,0 +1,291 @@
+{
+  "Andhra Pradesh": {
+    "AGB": 63951,
+    "BGB": 25064,
+    "DeadWood": 979,
+    "Litter": 3171,
+    "SOC": 137057,
+    "co2Equivalent": 844140000
+  },
+  "Arunachal Pradesh": {
+    "AGB": 340351,
+    "BGB": 102229,
+    "DeadWood": 9163,
+    "Litter": 11802,
+    "SOC": 560298,
+    "co2Equivalent":3754080000
+  },
+  "Assam": {
+    "AGB": 87070,
+    "BGB": 21495,
+    "DeadWood": 1875,
+    "Litter": 4890,
+    "SOC": 156042,
+    "co2Equivalent": 995020000
+  },
+  "Bihar": {
+    "AGB": 14743,
+    "BGB": 5249,
+    "DeadWood": 231,
+    "Litter": 785,
+    "SOC": 35873,
+    "co2Equivalent": 208560000
+  },
+  "Chhattisgarh": {
+    "AGB": 152714,
+    "BGB": 48947,
+    "DeadWood": 2520,
+    "Litter": 8487,
+    "SOC": 283769,
+    "co2Equivalent": 1820280000
+  },
+  " Delhi": {
+    "AGB": 263,
+    "BGB": 78,
+    "DeadWood": 5,
+    "Litter": 17,
+    "SOC": 839,
+    "co2Equivalent":4400000
+  },
+  "Goa": {
+    "AGB": 8863,
+    "BGB": 2606,
+    "DeadWood": 232,
+    "Litter": 448,
+    "SOC": 13095,
+    "co2Equivalent": 92550000
+  },
+  "Gujrat": {
+    "AGB": 28602,
+    "BGB": 9814,
+    "DeadWood": 502,
+    "Litter": 1634,
+    "SOC": 67214,
+    "co2Equivalent": 395160000
+  },
+  "Haryana": {
+    "AGB": 2326,
+    "BGB": 836,
+    "DeadWood":41,
+    "Litter": 139,
+    "SOC": 6890,
+    "co2Equivalent": 37510000
+  },
+  "Himachal Pradesh": {
+    "AGB": 114269,
+    "BGB": 31880,
+    "DeadWood": 2657,
+    "Litter": 3328,
+    "SOC": 105937,
+    "co2Equivalent": 946260000
+  },
+  "Jharkhand": {
+    "AGB": 51017,
+    "BGB": 20189,
+    "DeadWood": 774,
+    "Litter": 2536,
+    "SOC": 109665,
+    "co2Equivalent": 677640000
+  },
+  "Karnataka": {
+    "AGB": 122741,
+    "BGB": 36716,
+    "DeadWood": 2890,
+    "Litter": 6380,
+    "SOC": 207668,
+    "co2Equivalent": 1380130000
+  },
+  "Kerala": {
+    "AGB": 61802,
+    "BGB": 17440,
+    "DeadWood": 1534,
+    "Litter":3198,
+    "SOC": 121549,
+    "co2Equivalent": 753570000
+  },
+  "Madhya Pradesh": {
+    "AGB": 171587,
+    "BGB": 67160,
+    "DeadWood": 2676,
+    "Litter": 8356,
+    "SOC": 359174,
+    "co2Equivalent": 2233920000
+  },
+  "Maharashtra": {
+    "AGB": 137831,
+    "BGB": 42353,
+    "DeadWood": 2316,
+    "Litter": 7928,
+    "SOC": 261178,
+    "co2Equivalent": 1655900000
+  },
+  "Manipur": {
+    "AGB": 47590,
+    "BGB": 14101,
+    "DeadWood": 880,
+    "Litter": 2652,
+    "SOC": 111708,
+    "co2Equivalent": 648740000
+  },
+  "Meghalaya": {
+    "AGB": 55241,
+    "BGB": 15820,
+    "DeadWood": 1238,
+    "Litter": 3075,
+    "SOC": 108014,
+    "co2Equivalent": 672430000
+  },
+  "Mizoram": {
+    "AGB": 48157,
+    "BGB": 10622,
+    "DeadWood": 758,
+    "Litter": 3140,
+    "SOC": 95961,
+    "co2Equivalent": 581680000 
+  },
+  "Nagaland": {
+    "AGB": 39339,
+    "BGB": 10618,
+    "DeadWood": 854,
+    "Litter": 2006,
+    "SOC": 82115,
+    "co2Equivalent": 494740000
+  },
+  "Odisha": {
+    "AGB": 13105,
+    "BGB": 40441,
+    "DeadWood": 2252,
+    "Litter": 7671,
+    "SOC": 263451,
+    "co2Equivalent": 1631040000
+  },
+  "Punjab": {
+    "AGB": 3420,
+    "BGB": 1284,
+    "DeadWood": 56,
+    "Litter": 175,
+    "SOC": 8623,
+    "co2Equivalent": 49720000
+  },
+  "Rajasthan": {
+    "AGB": 26714,
+    "BGB": 10803,
+    "DeadWood": 462,
+    "Litter": 1476,
+    "SOC": 71319,
+    "co2Equivalent": 406160000
+  },
+  "Sikkim": {
+    "AGB": 18024,
+    "BGB": 5466,
+    "DeadWood": 498,
+    "Litter": 607,
+    "SOC": 30944,
+    "co2Equivalent": 203650000
+  },
+  "Tamil Nadu": {
+    "AGB": 60459,
+    "BGB": 20671,
+    "DeadWood": 1198,
+    "Litter": 3102,
+    "SOC": 129183,
+    "co2Equivalent": 786900000
+  },
+  "Telangana": {
+    "AGB": 44413,
+    "BGB": 18415,
+    "DeadWood": 675,
+    "Litter": 2169,
+    "SOC": 96314,
+    "co2Equivalent": 593960000
+  },
+  "Tripura": {
+    "AGB": 24349,
+    "BGB": 5358,
+    "DeadWood": 477,
+    "Litter": 1486,
+    "SOC": 43304,
+    "co2Equivalent": 274890000
+  },
+  "Uttar Pradesh": {
+    "AGB": 32543,
+    "BGB": 10234,
+    "DeadWood": 534,
+    "Litter": 1825,
+    "SOC": 72105,
+    "co2Equivalent": 429880000
+  },
+  "Uttarakhand": {
+    "AGB": 159674,
+    "BGB": 42893,
+    "DeadWood": 3561,
+    "Litter": 5184,
+    "SOC": 166847,
+    "co2Equivalent": 1386590000
+  },
+  "West Bengal": {
+    "AGB": 45365,
+    "BGB": 14119,
+    "DeadWood": 726,
+    "Litter": 2162,
+    "SOC": 92889,
+    "co2Equivalent": 569290000
+  },
+  "Andaman and Nicobar Islands": {
+    "AGB": 47560,
+    "BGB": 15450,
+    "DeadWood": 1432,
+    "Litter": 1808,
+    "SOC": 43586,
+    "co2Equivalent": 402750000
+  },
+  "Chandigarh": {
+    "AGB": 47,
+    "BGB": 15,
+    "DeadWood": 1,
+    "Litter": 3,
+    "SOC": 117,
+    "co2Equivalent": 660000
+  },
+  "Dadra and Nagar Haveli and Daman and Diu": {
+    "AGB": 558,
+    "BGB": 129,
+    "DeadWood": 11,
+    "Litter": 38,
+    "SOC": 1244,
+    "co2Equivalent": 7260000
+  },
+  "Jammu & Kashmir": {
+    "AGB": 163897,
+    "BGB": 45864,
+    "DeadWood": 3386,
+    "Litter": 4951,
+    "SOC": 152772,
+    "co2Equivalent": 1359860000
+  },
+  "Ladakh": {
+    "AGB": 13293,
+    "BGB": 3836,
+    "DeadWood": 269,
+    "Litter": 317,
+    "SOC": 12987,
+    "co2Equivalent": 112570000
+  },
+  "Lakshadweep": {
+    "AGB": 46,
+    "BGB": 10,
+    "DeadWood": 1,
+    "Litter": 3,
+    "SOC": 150,
+    "co2Equivalent": 770000
+  },
+  "Puducherry": {
+    "AGB": 76,
+    "BGB": 17,
+    "DeadWood": 1,
+    "Litter": 5,
+    "SOC": 287,
+    "co2Equivalent": 1430000
+  }
+
+}

@@ -1,0 +1,56 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Next.js build output
+.next/
+out/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Test coverage
+coverage/
+
+# Temp files
+*.tmp
+*.temp
+
+# Storybook
+storybook-static/
+
+# Optional: Ignore TypeScript cache
+*.tsbuildinfo
+
+# Optional: Ignore public runtime configuration
+public/runtime-config.json
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+Dockerfile*
+*.dockerignore
+

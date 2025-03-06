@@ -1,0 +1,2008 @@
+EF ID,IPCC 1996 Source/Sink Category,IPCC 2006 Source/Sink Category,Gas,Type of parameter,Description,Parameters / Conditions,Region / Regional Conditions,Value,Unit,Equation
+110068,"1B1a - Coal Mining
+","1.B.1.a - Coal mining and handling
+","METHANE
+",1996 IPCC default,Estimated Underground Emission Factors for Selected Countries,,Former Soviet Union,17.8 - 22.2,m3/tonne,Equation 1 on Page 1.105 of Reference Manual of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories
+120580,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",1996 & 2006 IPCC default,Tier 1 Default Emission Factor for Underground Mining,Average mining depths: &lt; 200 m (less than 200 m),Global average,10,m^3/tonne of coal production,"Equation 4.1.3 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 1 in Section 1.7.2.2 (page 1.105), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120581,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",1996 & 2006 IPCC default,Tier 1 Default Emission Factor for Underground Mining,Average mining depths: &gt; 400 m (greater than 400 m),Global average,25,m^3/tonne of coal production,"Equation 4.1.3 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 1 in Section 1.7.2.2 (page 1.105), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120582,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",1996 & 2006 IPCC default,Tier 1 Default Emission Factor for Underground Mining,Average mining depths: 200 - 400 m,Global average,18,m^3/tonne of coal production,"Equation 4.1.3 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 1 in Section 1.7.2.2 (page 1.105), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120583,"1B1a1 - Underground Mines
+","1.B.1.a.i.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Post-Mining Emissions from Underground Mines,Average mining depths: &lt; 200 m (less than 200 m),Global average,0.9,m^3/tonne of coal production,"Equation 4.1.4 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 4 in Section 1.7.2.2 (page 1.110), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120584,"1B1a1 - Underground Mines
+","1.B.1.a.i.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Post-Mining Emissions from Underground Mines,Average mining depths: &gt; 400 m (over 400 m),Global average,4.0,m^3/tonne of coal production,"Equation 4.1.4 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 4 in Section 1.7.2.2 (page 1.110), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120585,"1B1a1 - Underground Mines
+","1.B.1.a.i.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Post-Mining Emissions from Underground Mines,Average mining depths: 200 - 400 m,Global average,2.5,m^3/tonne of coal production,"Equation 4.1.4 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 4 in Section 1.7.2.2 (page 1.110), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120586,"1B1a2 - Surface Mines
+","1.B.1.a.ii.1 - Mining
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: less than 25 m,Global average,0.3,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120587,"1B1a2 - Surface Mines
+","1.B.1.a.ii.1 - Mining
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: over 50 m,Global average,2.0,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120588,"1B1a2 - Surface Mines
+","1.B.1.a.ii.1 - Mining
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: 25 - 50 m,Global average,1.2,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120589,"1B1a2 - Surface Mines
+","1.B.1.a.ii.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: less than 25 m,Global average,0,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120590,"1B1a2 - Surface Mines
+","1.B.1.a.ii.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: over 50 m,Global average,0.2,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120591,"1B1a2 - Surface Mines
+","1.B.1.a.ii.2 - Post-mining seam gas emissions
+","METHANE
+",2006 IPCC default,Tier 1 Default Emission Factor for Surface Mining,Average overburden depths: 25 - 50 m,Global average,0.1,m^3/tonne of coal production,"Equation 4.1.7 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories;                    Equation 2 in Section 1.7.2.2 (page 1.108), Volume 3 of the Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+120592,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Percentage of Gassy Coal Mines (Default value for Tier 1 Abandoned Underground Mines),Time interval when coal mines were abandoned: 1900 - 1925,,0 - 10,%,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120593,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Percentage of Gassy Coal Mines (Default value for Tier 1 Abandoned Underground Mines),Time interval when coal mines were abandoned: 1926 - 1950,,3 - 50,%,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120594,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Percentage of Gassy Coal Mines (Default value for Tier 1 Abandoned Underground Mines),Time interval when coal mines were abandoned: 1950 - 1976,,5 - 75,%,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120595,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Percentage of Gassy Coal Mines (Default value for Tier 1 Abandoned Underground Mines),Time interval when coal mines were abandoned: 1976 - 2000,,8 - 100,%,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120596,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Percentage of Gassy Coal Mines (Default value for Tier 1 Abandoned Underground Mines),Time interval when coal mines were abandoned: 2001 - Present,,9 - 100,%,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120597,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.281,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120598,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.279,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120599,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.277,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120600,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.275,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120601,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.273,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120602,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.272,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120603,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.270,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120604,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.268,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120605,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.267,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120606,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.265,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120607,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.264,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120608,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.262,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120609,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.261,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120610,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.259,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120611,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.258,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120612,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.256,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120613,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.255,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120614,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.253,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120615,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.252,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120616,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.251,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120617,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.249,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120618,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.248,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120619,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.247,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120620,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.246,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120621,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.244,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120622,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.243,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120623,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1901 - 1925,,0.242,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120624,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.343,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120625,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.340,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120626,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.336,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120627,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.333,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120628,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.330,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120629,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.327,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120630,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.324,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120631,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.322,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120632,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.319,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120633,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.316,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120634,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.314,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120635,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.311,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120636,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.308,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120637,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.306,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120638,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.304,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120639,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.301,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120640,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.299,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120641,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.297,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120642,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.295,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120643,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.293,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120644,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.29,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120645,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.288,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120646,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.286,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120647,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.284,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120648,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.283,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120649,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.281,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120650,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1926 - 1950,,0.279,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120651,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.478,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120652,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.469,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120653,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.461,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120654,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.453,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120655,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.446,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120656,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.439,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120657,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.432,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120658,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.425,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120659,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.419,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120660,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.413,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120661,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.408,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120662,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.402,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120663,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.397,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120664,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.392,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120665,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.387,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120666,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.382,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120667,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.378,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120668,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.373,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120669,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.369,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120670,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.365,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120671,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.361,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120672,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.357,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120673,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.353,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120674,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.35,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120675,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.346,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120676,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.343,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120677,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1951 - 1975,,0.340,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120678,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,1.561,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120679,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,1.334,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120680,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,1.183,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120681,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,1.072,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120682,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.988,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120683,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.921,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120684,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.865,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120685,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.818,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120686,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.778,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120687,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.743,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120688,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.713,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120689,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.686,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120690,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.661,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120691,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.639,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120692,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.620,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120693,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.601,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120694,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.585,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120695,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.569,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120696,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.555,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120697,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.542,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120698,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.529,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120699,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.518,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120700,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.507,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120701,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.496,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120702,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.487,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120703,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.478,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120704,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 1976 - 2000,,0.469,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120705,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,5.735,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120706,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,2.397,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120707,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,1.762,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120708,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,1.454,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120709,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,1.265,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120710,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,1.133,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120711,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,1.035,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120712,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.959,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120713,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.896,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120714,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.845,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120715,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.801,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120716,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.763,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120717,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.73,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120718,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.701,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120719,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.675,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+120720,"1B1c - Other (please specify)
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2006 IPCC default,Tier 1 Abandoned Underground Mines Emission Factor,Time interval when coal mines were abandoned: 2001 - Present,,0.652,million m^3/mine/year,Equation 4.1.10 in Volume 2 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories
+122973,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",Measured,Fugitive emissions from underground mining activities,"""Degree-I"" underground seam refers to a coal seams in which the percentage of methane in the general body of air does not exceed 0.1 and the rate of emission of methane does not exceed one cubic meter per tonne of coal produced. (Reg 2(12A), Coal Mines Regulations, 1957, DGMS, India)",India,2.91,m3/tonnes of product,
+122974,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",Measured,Fugitive emissions from underground mining activities,,India,13.08,m3/tonnes of product,
+122975,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",Measured,Fugitive emissions from underground mining activities,,India,23.68,m3/tonnes of product,
+122991,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,During mining(Deg.I),India,2.91,m3 CH4/tonne of coal produced,
+122992,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,During mining(Deg.II),India,13.08,m3 CH4/tonne of coal produced,
+122993,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,During mining(Deg.III),India,23.64,m3 CH4/tonne of coal produced,
+122994,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,Post mining(Deg.I),India,0.98,m3 CH4/tonne of coal produced,
+122995,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,Post mining(Deg.II),India,2.15,m3 CH4/tonne of coal produced,
+122996,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,EF of Underground mines,Post mining(Deg.III),India,3.12,m3 CH4/tonne of coal produced,
+122997,"1B1a2 - Surface Mines
+","1.B.1.a.ii - Surface mines
+","METHANE
+",Measured,EF of Surfacemining,Mining,India,1.18,m3 CH4/tonne of coal produced,
+122998,"1B1a2 - Surface Mines
+","1.B.1.a.ii - Surface mines
+","METHANE
+",Measured,EF of Surfacemining,Post Mining,India,0.15,m3 CH4/tonne of coal produced,
+124920,"1B1a2 - Surface Mines
+","1.B.1.a.ii - Surface mines
+1.B.1.a.ii.1 - Mining
+","METHANE
+",Measured,Methane fugitive emissions from surface mining activities,"Production of coal varied between 400-125,000 tonnes per day at the various mine sites","The studies were carried out in Jharia, East Bokaro, West Bokaro, North Karanpura, South Karanpura, Singarauli, Sohagpur and Korba coalfields, India",0.74-1.52,m3/tonnes of product,
+124921,"1B1a2 - Surface Mines
+","1.B.1.a.ii - Surface mines
+1.B.1.a.ii.2 - Post-mining seam gas emissions
+","METHANE
+",Measured,Methane fugitive emissions from post-mining activities in surface mining,"Production of coal varied between 400-125,000 tonnes per day at the various mine sites","The studies were carried out in Jharia, East Bokaro, West Bokaro, North Karanpura, South Karanpura, Singarauli, Sohagpur and Korba coalfields, India",0.04-1.26,m3/tonnes of product,
+125565,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","CARBON DIOXIDE
+",Measured,Fugitive emissions from underground mining activities Average (weighted based on coal production),Active mine conditions,"Measurements were carried out on 81 degree-I mines.  These mines were located in different coalfields within eastern and central India. The coalfields within these measurements were: Raniganj, Jharia, East-Bokaro, Mand-Raigarh, Pranhita Godavari, Sohagpur, Ib Valley, Pench-Kannan, Bisrampur, Johilla and Hasdeo, India. ""Degree-I"" underground seam refers to a coal seams in which the percentage of methane in the general body of air does not exceed 0.1 and the rate of emission of methane does not exceed one cubic meter per tonne of coal produced. (Reg 2(12A), Coal Mines Regulations, 1957, DGMS, India).",13.76,m3/tonne of coal,
+125566,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","CARBON DIOXIDE
+",Measured,Fugitive emissions from underground mining activities Average (weighted based on coal production),Active mine conditions,,7.83,m3/tonne of coal,
+125567,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","CARBON DIOXIDE
+",Measured,Fugitive emissions from underground mining activities Average (weighted based on coal production),Active mine conditions,,17.65,m3/tonne of coal,
+125568,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,Fugitive methane emissions from underground coal mining activities from Degree-I mines. Average (weighted based on coal production),Active mine conditions,"Measurements were carried out on 81 degree-I mines.  These mines were located in different coalfields within eastern and central India. The coalfields within these measurements were: Raniganj, Jharia, East-Bokaro, Mand-Raigarh, Pranhita Godavari, Sohagpur, Ib Valley, Pench-Kannan, Bisrampur, Johilla and Hasdeo, India. ""Degree-I"" underground seam refers to a coal seams in which the percentage of methane in the general body of air does not exceed 0.1 and the rate of emission of methane does not exceed one cubic meter per tonne of coal produced. (Reg 2(12A), Coal Mines Regulations, 1957, DGMS, India).",0.86,m3/tonne of coal,
+125569,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,Fugitive methane emissions from underground coal mining activities from Degree-II mines. Average (weighted based on coal production),Active mine conditions,,4.46,m3/tonne of coal,
+125570,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,Fugitive methane emissions from underground coal mining activities from Degree-III mines. Average (weighted based on coal production),Active mine conditions,,14.12,m3/tonne of coal,
+127317,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,CH4 emission factor for undeground mines in Raniganj coalfield,,"West Bengal, India",2.65,m3/tonne of coal,
+127318,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","METHANE
+",Measured,CH4 emission factor for undeground mines in Jharia coalfield,,"Jharkhand, India",4.58,m3/tonne of coal,
+127319,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","CARBON DIOXIDE
+",Measured,CO2 emission factor for undeground mines in Raniganj coalfield,,"West Bengal, India",19.21,m3/tonne of coal,
+127320,"1B1a1 - Underground Mines
+","1.B.1.a.i - Underground mines
+","CARBON DIOXIDE
+",Measured,CO2 emission factor for undeground mines in Jharia coalfield,,"Jharkhand, India",17.03,m3/tonne of coal,
+130753,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for undeground mining,,,18,m3/tonne of coal,EQUATION 4.1.3 (UPDATED)
+130754,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","METHANE
+",2019 Refinement default,density of CH4 taken at 20?C and 1 atmosphere pressure,,,0.00000067,Gg/m3,EQUATION 4.1.3 (UPDATED)
+130755,"1B1a1 - Underground Mines
+","1.B.1.a.i.1 - Mining
+","CARBON DIOXIDE
+",2019 Refinement default,Tier 1 CO2 Emission Factors for underground mining,,,5.9,m3/tonne of coal,EQUATION 4.1.3A (NEW)
+130756,"1B1a1 - Underground Mines
+","1.B.1.a.i.2 - Post-mining seam gas emissions
+","CARBON DIOXIDE
+",2019 Refinement default,density of CO2 taken at 20?C and 1 atmosphere pressure,,,0.00000184,Gg/m3,EQUATION 4.1.3A (NEW)
+130757,"1B1a1 - Underground Mines
+","1.B.1.a.i.2 - Post-mining seam gas emissions
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for undeground post-mining,,,2.5,m3/tonne of coal,EQUATION 4.1.4
+130758,"1B1a2 - Surface Mines
+","1.B.1.a.ii.1 - Mining
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for surface mining,,,1.2,m3/tonne of coal,EQUATION 4.1.7 (UPDATED)
+130759,"1B1a2 - Surface Mines
+","1.B.1.a.ii.1 - Mining
+","CARBON DIOXIDE
+",2019 Refinement default,Tier 1 CO2 emission factor for surface mining,,,0.44,m3/tonne of coal,EQUATION 4.1.7A (NEW)
+130760,"1B1a2 - Surface Mines
+","1.B.1.a.ii.2 - Post-mining seam gas emissions
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for surface post-mining,,,0.1,m3/tonne of coal,EQUATION 4.1.8
+130761,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.281,million m^3/mine/year,EQUATION 4.1.10
+130762,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.279,million m^3/mine/year,EQUATION 4.1.10
+130763,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.277,million m^3/mine/year,EQUATION 4.1.10
+130764,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.275,million m^3/mine/year,EQUATION 4.1.10
+130765,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.273,million m^3/mine/year,EQUATION 4.1.10
+130766,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.272,million m^3/mine/year,EQUATION 4.1.10
+130767,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.27,million m^3/mine/year,EQUATION 4.1.10
+130768,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.268,million m^3/mine/year,EQUATION 4.1.10
+130769,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.267,million m^3/mine/year,EQUATION 4.1.10
+130770,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.265,million m^3/mine/year,EQUATION 4.1.10
+130771,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.264,million m^3/mine/year,EQUATION 4.1.10
+130772,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.262,million m^3/mine/year,EQUATION 4.1.10
+130773,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.261,million m^3/mine/year,EQUATION 4.1.10
+130774,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.259,million m^3/mine/year,EQUATION 4.1.10
+130775,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.258,million m^3/mine/year,EQUATION 4.1.10
+130776,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.256,million m^3/mine/year,EQUATION 4.1.10
+130777,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.255,million m^3/mine/year,EQUATION 4.1.10
+130778,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.253,million m^3/mine/year,EQUATION 4.1.10
+130779,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.252,million m^3/mine/year,EQUATION 4.1.10
+130780,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.251,million m^3/mine/year,EQUATION 4.1.10
+130781,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.249,million m^3/mine/year,EQUATION 4.1.10
+130782,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.248,million m^3/mine/year,EQUATION 4.1.10
+130783,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.247,million m^3/mine/year,EQUATION 4.1.10
+130784,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.246,million m^3/mine/year,EQUATION 4.1.10
+130785,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.244,million m^3/mine/year,EQUATION 4.1.10
+130786,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.243,million m^3/mine/year,EQUATION 4.1.10
+130787,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.242,million m^3/mine/year,EQUATION 4.1.10
+130788,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.241,million m^3/mine/year,EQUATION 4.1.10
+130789,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.239,million m^3/mine/year,EQUATION 4.1.10
+130790,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.238,million m^3/mine/year,EQUATION 4.1.10
+130791,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.237,million m^3/mine/year,EQUATION 4.1.10
+130792,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.236,million m^3/mine/year,EQUATION 4.1.10
+130793,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.235,million m^3/mine/year,EQUATION 4.1.10
+130794,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.234,million m^3/mine/year,EQUATION 4.1.10
+130795,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.233,million m^3/mine/year,EQUATION 4.1.10
+130796,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.232,million m^3/mine/year,EQUATION 4.1.10
+130797,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.23,million m^3/mine/year,EQUATION 4.1.10
+130798,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.229,million m^3/mine/year,EQUATION 4.1.10
+130799,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.228,million m^3/mine/year,EQUATION 4.1.10
+130800,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.227,million m^3/mine/year,EQUATION 4.1.10
+130801,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.226,million m^3/mine/year,EQUATION 4.1.10
+130802,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.225,million m^3/mine/year,EQUATION 4.1.10
+130803,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.224,million m^3/mine/year,EQUATION 4.1.10
+130804,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.223,million m^3/mine/year,EQUATION 4.1.10
+130805,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.223,million m^3/mine/year,EQUATION 4.1.10
+130806,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.222,million m^3/mine/year,EQUATION 4.1.10
+130807,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.221,million m^3/mine/year,EQUATION 4.1.10
+130808,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.22,million m^3/mine/year,EQUATION 4.1.10
+130809,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.219,million m^3/mine/year,EQUATION 4.1.10
+130810,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.218,million m^3/mine/year,EQUATION 4.1.10
+130811,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.217,million m^3/mine/year,EQUATION 4.1.10
+130812,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.216,million m^3/mine/year,EQUATION 4.1.10
+130813,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.215,million m^3/mine/year,EQUATION 4.1.10
+130814,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.214,million m^3/mine/year,EQUATION 4.1.10
+130815,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.214,million m^3/mine/year,EQUATION 4.1.10
+130816,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.213,million m^3/mine/year,EQUATION 4.1.10
+130817,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.212,million m^3/mine/year,EQUATION 4.1.10
+130818,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.211,million m^3/mine/year,EQUATION 4.1.10
+130819,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.21,million m^3/mine/year,EQUATION 4.1.10
+130820,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.21,million m^3/mine/year,EQUATION 4.1.10
+130821,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.209,million m^3/mine/year,EQUATION 4.1.10
+130822,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.343,million m^3/mine/year,EQUATION 4.1.10
+130823,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.34,million m^3/mine/year,EQUATION 4.1.10
+130824,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.336,million m^3/mine/year,EQUATION 4.1.10
+130825,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.333,million m^3/mine/year,EQUATION 4.1.10
+130826,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.33,million m^3/mine/year,EQUATION 4.1.10
+130827,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.327,million m^3/mine/year,EQUATION 4.1.10
+130828,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.324,million m^3/mine/year,EQUATION 4.1.10
+130829,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.322,million m^3/mine/year,EQUATION 4.1.10
+130830,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.319,million m^3/mine/year,EQUATION 4.1.10
+130831,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.316,million m^3/mine/year,EQUATION 4.1.10
+130832,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.314,million m^3/mine/year,EQUATION 4.1.10
+130833,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.311,million m^3/mine/year,EQUATION 4.1.10
+130834,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.308,million m^3/mine/year,EQUATION 4.1.10
+130835,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.306,million m^3/mine/year,EQUATION 4.1.10
+130836,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.304,million m^3/mine/year,EQUATION 4.1.10
+130837,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.301,million m^3/mine/year,EQUATION 4.1.10
+130838,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.299,million m^3/mine/year,EQUATION 4.1.10
+130839,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.297,million m^3/mine/year,EQUATION 4.1.10
+130840,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.295,million m^3/mine/year,EQUATION 4.1.10
+130841,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.293,million m^3/mine/year,EQUATION 4.1.10
+130842,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.29,million m^3/mine/year,EQUATION 4.1.10
+130843,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.288,million m^3/mine/year,EQUATION 4.1.10
+130844,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.286,million m^3/mine/year,EQUATION 4.1.10
+130845,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.284,million m^3/mine/year,EQUATION 4.1.10
+130846,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.283,million m^3/mine/year,EQUATION 4.1.10
+130847,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.281,million m^3/mine/year,EQUATION 4.1.10
+130848,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.279,million m^3/mine/year,EQUATION 4.1.10
+130849,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.277,million m^3/mine/year,EQUATION 4.1.10
+130850,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.275,million m^3/mine/year,EQUATION 4.1.10
+130851,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.273,million m^3/mine/year,EQUATION 4.1.10
+130852,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.272,million m^3/mine/year,EQUATION 4.1.10
+130853,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.27,million m^3/mine/year,EQUATION 4.1.10
+130854,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.268,million m^3/mine/year,EQUATION 4.1.10
+130855,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.267,million m^3/mine/year,EQUATION 4.1.10
+130856,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.265,million m^3/mine/year,EQUATION 4.1.10
+130857,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.264,million m^3/mine/year,EQUATION 4.1.10
+130858,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.262,million m^3/mine/year,EQUATION 4.1.10
+130859,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.261,million m^3/mine/year,EQUATION 4.1.10
+130860,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.259,million m^3/mine/year,EQUATION 4.1.10
+130861,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.258,million m^3/mine/year,EQUATION 4.1.10
+130862,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.256,million m^3/mine/year,EQUATION 4.1.10
+130863,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.255,million m^3/mine/year,EQUATION 4.1.10
+130864,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.253,million m^3/mine/year,EQUATION 4.1.10
+130865,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.252,million m^3/mine/year,EQUATION 4.1.10
+130866,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.251,million m^3/mine/year,EQUATION 4.1.10
+130867,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.249,million m^3/mine/year,EQUATION 4.1.10
+130868,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.248,million m^3/mine/year,EQUATION 4.1.10
+130869,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.247,million m^3/mine/year,EQUATION 4.1.10
+130870,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.246,million m^3/mine/year,EQUATION 4.1.10
+130871,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.244,million m^3/mine/year,EQUATION 4.1.10
+130872,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.243,million m^3/mine/year,EQUATION 4.1.10
+130873,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.242,million m^3/mine/year,EQUATION 4.1.10
+130874,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.241,million m^3/mine/year,EQUATION 4.1.10
+130875,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.239,million m^3/mine/year,EQUATION 4.1.10
+130876,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.238,million m^3/mine/year,EQUATION 4.1.10
+130877,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.237,million m^3/mine/year,EQUATION 4.1.10
+130878,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.236,million m^3/mine/year,EQUATION 4.1.10
+130879,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.235,million m^3/mine/year,EQUATION 4.1.10
+130880,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.234,million m^3/mine/year,EQUATION 4.1.10
+130881,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.233,million m^3/mine/year,EQUATION 4.1.10
+130882,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.232,million m^3/mine/year,EQUATION 4.1.10
+130883,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.478,million m^3/mine/year,EQUATION 4.1.10
+130884,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.469,million m^3/mine/year,EQUATION 4.1.10
+130885,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.461,million m^3/mine/year,EQUATION 4.1.10
+130886,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.453,million m^3/mine/year,EQUATION 4.1.10
+130887,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.446,million m^3/mine/year,EQUATION 4.1.10
+130888,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.439,million m^3/mine/year,EQUATION 4.1.10
+130889,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.432,million m^3/mine/year,EQUATION 4.1.10
+130890,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.425,million m^3/mine/year,EQUATION 4.1.10
+130891,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.419,million m^3/mine/year,EQUATION 4.1.10
+130892,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.413,million m^3/mine/year,EQUATION 4.1.10
+130893,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.408,million m^3/mine/year,EQUATION 4.1.10
+130894,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.402,million m^3/mine/year,EQUATION 4.1.10
+130895,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.397,million m^3/mine/year,EQUATION 4.1.10
+130896,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.392,million m^3/mine/year,EQUATION 4.1.10
+130897,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.387,million m^3/mine/year,EQUATION 4.1.10
+130898,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.382,million m^3/mine/year,EQUATION 4.1.10
+130899,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.378,million m^3/mine/year,EQUATION 4.1.10
+130900,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.373,million m^3/mine/year,EQUATION 4.1.10
+130901,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.369,million m^3/mine/year,EQUATION 4.1.10
+130902,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.365,million m^3/mine/year,EQUATION 4.1.10
+130903,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.361,million m^3/mine/year,EQUATION 4.1.10
+130904,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.357,million m^3/mine/year,EQUATION 4.1.10
+130905,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.353,million m^3/mine/year,EQUATION 4.1.10
+130906,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.35,million m^3/mine/year,EQUATION 4.1.10
+130907,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.346,million m^3/mine/year,EQUATION 4.1.10
+130908,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.343,million m^3/mine/year,EQUATION 4.1.10
+130909,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.34,million m^3/mine/year,EQUATION 4.1.10
+130910,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.336,million m^3/mine/year,EQUATION 4.1.10
+130911,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.333,million m^3/mine/year,EQUATION 4.1.10
+130912,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.33,million m^3/mine/year,EQUATION 4.1.10
+130913,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.327,million m^3/mine/year,EQUATION 4.1.10
+130914,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.324,million m^3/mine/year,EQUATION 4.1.10
+130915,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.322,million m^3/mine/year,EQUATION 4.1.10
+130916,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.319,million m^3/mine/year,EQUATION 4.1.10
+130917,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.316,million m^3/mine/year,EQUATION 4.1.10
+130918,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.314,million m^3/mine/year,EQUATION 4.1.10
+130919,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.311,million m^3/mine/year,EQUATION 4.1.10
+130920,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.308,million m^3/mine/year,EQUATION 4.1.10
+130921,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.306,million m^3/mine/year,EQUATION 4.1.10
+130922,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.304,million m^3/mine/year,EQUATION 4.1.10
+130923,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.301,million m^3/mine/year,EQUATION 4.1.10
+130924,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.299,million m^3/mine/year,EQUATION 4.1.10
+130925,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.297,million m^3/mine/year,EQUATION 4.1.10
+130926,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.295,million m^3/mine/year,EQUATION 4.1.10
+130927,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.293,million m^3/mine/year,EQUATION 4.1.10
+130928,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.29,million m^3/mine/year,EQUATION 4.1.10
+130929,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.288,million m^3/mine/year,EQUATION 4.1.10
+130930,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.286,million m^3/mine/year,EQUATION 4.1.10
+130931,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.284,million m^3/mine/year,EQUATION 4.1.10
+130932,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.283,million m^3/mine/year,EQUATION 4.1.10
+130933,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.281,million m^3/mine/year,EQUATION 4.1.10
+130934,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.279,million m^3/mine/year,EQUATION 4.1.10
+130935,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.277,million m^3/mine/year,EQUATION 4.1.10
+130936,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.275,million m^3/mine/year,EQUATION 4.1.10
+130937,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.273,million m^3/mine/year,EQUATION 4.1.10
+130938,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.272,million m^3/mine/year,EQUATION 4.1.10
+130939,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.27,million m^3/mine/year,EQUATION 4.1.10
+130940,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.268,million m^3/mine/year,EQUATION 4.1.10
+130941,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.267,million m^3/mine/year,EQUATION 4.1.10
+130942,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.265,million m^3/mine/year,EQUATION 4.1.10
+130943,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.264,million m^3/mine/year,EQUATION 4.1.10
+130944,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.561,million m^3/mine/year,EQUATION 4.1.10
+130945,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.334,million m^3/mine/year,EQUATION 4.1.10
+130946,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.183,million m^3/mine/year,EQUATION 4.1.10
+130947,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.072,million m^3/mine/year,EQUATION 4.1.10
+130948,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.988,million m^3/mine/year,EQUATION 4.1.10
+130949,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.921,million m^3/mine/year,EQUATION 4.1.10
+130950,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.865,million m^3/mine/year,EQUATION 4.1.10
+130951,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.818,million m^3/mine/year,EQUATION 4.1.10
+130952,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.778,million m^3/mine/year,EQUATION 4.1.10
+130953,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.743,million m^3/mine/year,EQUATION 4.1.10
+130954,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.713,million m^3/mine/year,EQUATION 4.1.10
+130955,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.686,million m^3/mine/year,EQUATION 4.1.10
+130956,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.661,million m^3/mine/year,EQUATION 4.1.10
+130957,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.639,million m^3/mine/year,EQUATION 4.1.10
+130958,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.62,million m^3/mine/year,EQUATION 4.1.10
+130959,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.601,million m^3/mine/year,EQUATION 4.1.10
+130960,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.585,million m^3/mine/year,EQUATION 4.1.10
+130961,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.569,million m^3/mine/year,EQUATION 4.1.10
+130962,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.555,million m^3/mine/year,EQUATION 4.1.10
+130963,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.542,million m^3/mine/year,EQUATION 4.1.10
+130964,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.529,million m^3/mine/year,EQUATION 4.1.10
+130965,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.518,million m^3/mine/year,EQUATION 4.1.10
+130966,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.507,million m^3/mine/year,EQUATION 4.1.10
+130967,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.496,million m^3/mine/year,EQUATION 4.1.10
+130968,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.487,million m^3/mine/year,EQUATION 4.1.10
+130969,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.478,million m^3/mine/year,EQUATION 4.1.10
+130970,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.469,million m^3/mine/year,EQUATION 4.1.10
+130971,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.439,million m^3/mine/year,EQUATION 4.1.10
+130972,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.432,million m^3/mine/year,EQUATION 4.1.10
+130973,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.425,million m^3/mine/year,EQUATION 4.1.10
+130974,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.419,million m^3/mine/year,EQUATION 4.1.10
+130975,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.413,million m^3/mine/year,EQUATION 4.1.10
+130976,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.408,million m^3/mine/year,EQUATION 4.1.10
+130977,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.402,million m^3/mine/year,EQUATION 4.1.10
+130978,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.397,million m^3/mine/year,EQUATION 4.1.10
+130979,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.392,million m^3/mine/year,EQUATION 4.1.10
+130980,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.387,million m^3/mine/year,EQUATION 4.1.10
+130981,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.382,million m^3/mine/year,EQUATION 4.1.10
+130982,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.378,million m^3/mine/year,EQUATION 4.1.10
+130983,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.373,million m^3/mine/year,EQUATION 4.1.10
+130984,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.369,million m^3/mine/year,EQUATION 4.1.10
+130985,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.365,million m^3/mine/year,EQUATION 4.1.10
+130986,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.361,million m^3/mine/year,EQUATION 4.1.10
+130987,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.357,million m^3/mine/year,EQUATION 4.1.10
+130988,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.353,million m^3/mine/year,EQUATION 4.1.10
+130989,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.35,million m^3/mine/year,EQUATION 4.1.10
+130990,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.346,million m^3/mine/year,EQUATION 4.1.10
+130991,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.343,million m^3/mine/year,EQUATION 4.1.10
+130992,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.34,million m^3/mine/year,EQUATION 4.1.10
+130993,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.336,million m^3/mine/year,EQUATION 4.1.10
+130994,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.333,million m^3/mine/year,EQUATION 4.1.10
+130995,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.33,million m^3/mine/year,EQUATION 4.1.10
+130996,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.327,million m^3/mine/year,EQUATION 4.1.10
+130997,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.324,million m^3/mine/year,EQUATION 4.1.10
+130998,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.322,million m^3/mine/year,EQUATION 4.1.10
+130999,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.319,million m^3/mine/year,EQUATION 4.1.10
+131000,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.316,million m^3/mine/year,EQUATION 4.1.10
+131001,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.314,million m^3/mine/year,EQUATION 4.1.10
+131002,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.311,million m^3/mine/year,EQUATION 4.1.10
+131003,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.308,million m^3/mine/year,EQUATION 4.1.10
+131004,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.306,million m^3/mine/year,EQUATION 4.1.10
+131005,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,5.735,million m^3/mine/year,EQUATION 4.1.10
+131006,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,2.397,million m^3/mine/year,EQUATION 4.1.10
+131007,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.762,million m^3/mine/year,EQUATION 4.1.10
+131008,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.454,million m^3/mine/year,EQUATION 4.1.10
+131009,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.265,million m^3/mine/year,EQUATION 4.1.10
+131010,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.133,million m^3/mine/year,EQUATION 4.1.10
+131011,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.035,million m^3/mine/year,EQUATION 4.1.10
+131012,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.959,million m^3/mine/year,EQUATION 4.1.10
+131013,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.896,million m^3/mine/year,EQUATION 4.1.10
+131014,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.845,million m^3/mine/year,EQUATION 4.1.10
+131015,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.801,million m^3/mine/year,EQUATION 4.1.10
+131016,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.763,million m^3/mine/year,EQUATION 4.1.10
+131017,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.73,million m^3/mine/year,EQUATION 4.1.10
+131018,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.701,million m^3/mine/year,EQUATION 4.1.10
+131019,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.675,million m^3/mine/year,EQUATION 4.1.10
+131020,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.652,million m^3/mine/year,EQUATION 4.1.10
+131021,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.625,million m^3/mine/year,EQUATION 4.1.10
+131022,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.604,million m^3/mine/year,EQUATION 4.1.10
+131023,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.586,million m^3/mine/year,EQUATION 4.1.10
+131024,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.569,million m^3/mine/year,EQUATION 4.1.10
+131025,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.555,million m^3/mine/year,EQUATION 4.1.10
+131026,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.542,million m^3/mine/year,EQUATION 4.1.10
+131027,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.529,million m^3/mine/year,EQUATION 4.1.10
+131028,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.518,million m^3/mine/year,EQUATION 4.1.10
+131029,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.507,million m^3/mine/year,EQUATION 4.1.10
+131030,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.496,million m^3/mine/year,EQUATION 4.1.10
+131031,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.487,million m^3/mine/year,EQUATION 4.1.10
+131032,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.478,million m^3/mine/year,EQUATION 4.1.10
+131033,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.469,million m^3/mine/year,EQUATION 4.1.10
+131034,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.439,million m^3/mine/year,EQUATION 4.1.10
+131035,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.432,million m^3/mine/year,EQUATION 4.1.10
+131036,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.425,million m^3/mine/year,EQUATION 4.1.10
+131037,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.419,million m^3/mine/year,EQUATION 4.1.10
+131038,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.413,million m^3/mine/year,EQUATION 4.1.10
+131039,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.408,million m^3/mine/year,EQUATION 4.1.10
+131040,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.402,million m^3/mine/year,EQUATION 4.1.10
+131041,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.397,million m^3/mine/year,EQUATION 4.1.10
+131042,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.392,million m^3/mine/year,EQUATION 4.1.10
+131043,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.387,million m^3/mine/year,EQUATION 4.1.10
+131044,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.382,million m^3/mine/year,EQUATION 4.1.10
+131045,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.378,million m^3/mine/year,EQUATION 4.1.10
+131046,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.373,million m^3/mine/year,EQUATION 4.1.10
+131047,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.369,million m^3/mine/year,EQUATION 4.1.10
+131048,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.365,million m^3/mine/year,EQUATION 4.1.10
+131049,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.361,million m^3/mine/year,EQUATION 4.1.10
+131050,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.357,million m^3/mine/year,EQUATION 4.1.10
+131051,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.353,million m^3/mine/year,EQUATION 4.1.10
+131052,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.35,million m^3/mine/year,EQUATION 4.1.10
+131053,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.346,million m^3/mine/year,EQUATION 4.1.10
+131054,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.343,million m^3/mine/year,EQUATION 4.1.10
+131055,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,5.735,million m^3/mine/year,EQUATION 4.1.10
+131056,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,2.397,million m^3/mine/year,EQUATION 4.1.10
+131057,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.762,million m^3/mine/year,EQUATION 4.1.10
+131058,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.454,million m^3/mine/year,EQUATION 4.1.10
+131059,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.265,million m^3/mine/year,EQUATION 4.1.10
+131060,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.133,million m^3/mine/year,EQUATION 4.1.10
+131061,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,1.035,million m^3/mine/year,EQUATION 4.1.10
+131062,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.959,million m^3/mine/year,EQUATION 4.1.10
+131063,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.896,million m^3/mine/year,EQUATION 4.1.10
+131064,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.845,million m^3/mine/year,EQUATION 4.1.10
+131065,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.801,million m^3/mine/year,EQUATION 4.1.10
+131066,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.763,million m^3/mine/year,EQUATION 4.1.10
+131067,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.73,million m^3/mine/year,EQUATION 4.1.10
+131068,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.701,million m^3/mine/year,EQUATION 4.1.10
+131069,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.675,million m^3/mine/year,EQUATION 4.1.10
+131070,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.652,million m^3/mine/year,EQUATION 4.1.10
+131071,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.625,million m^3/mine/year,EQUATION 4.1.10
+131072,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.604,million m^3/mine/year,EQUATION 4.1.10
+131073,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.586,million m^3/mine/year,EQUATION 4.1.10
+131074,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.569,million m^3/mine/year,EQUATION 4.1.10
+131075,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.555,million m^3/mine/year,EQUATION 4.1.10
+131076,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.542,million m^3/mine/year,EQUATION 4.1.10
+131077,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.529,million m^3/mine/year,EQUATION 4.1.10
+131078,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.518,million m^3/mine/year,EQUATION 4.1.10
+131079,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 1 CH4 emission factor for abandoned underground mines,,,0.507,million m^3/mine/year,EQUATION 4.1.10
+131080,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,Tier 2 default CH4 emission factor for abandoned coal mines prior to abandonment,,,1.3-38.8,million m^3/mine/year,EQUATION 4.1.11
+131081,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,1.72,No dimension,EQUATION 4.1.12
+131082,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,3.72,No dimension,EQUATION 4.1.12
+131083,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,0.27,No dimension,EQUATION 4.1.12
+131084,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,-0.58,No dimension,EQUATION 4.1.12
+131085,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,-0.42,No dimension,EQUATION 4.1.12
+131086,"1B1a1 - Underground Mines
+","1.B.1.a.i.3 - Abandoned underground mines
+","METHANE
+",2019 Refinement default,,,,-1.00,No dimension,EQUATION 4.1.12
+131338,"1B1a - Coal Mining
+",,"METHANE
+",2019 Refinement default,Fugitive Emission Factor from Coal Exploration Boreholes,,,0.01,m3/tonne of coal,EQUATION 4AP.1.1 (NEW)
+131339,"1B1a - Coal Mining
+",,"METHANE
+",2019 Refinement default,Fugitive Emission Factor from Coal Exploration Boreholes,,,0.03,m3/tonne of coal,EQUATION 4AP.1.1 (NEW)
+131340,"1B1a - Coal Mining
+",,"METHANE
+",2019 Refinement default,Fugitive Emission Factor from Coal Exploration Boreholes,for depth > 1200 m,,0.05,m3/tonne of coal,EQUATION 4AP.1.1 (NEW)
